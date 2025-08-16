@@ -1,1 +1,1 @@
-# MT5-Trading-Algo
+# Crypto-Trading-Algo-CCXT
